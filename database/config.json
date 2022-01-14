@@ -1,0 +1,29 @@
+{
+    "server": {
+        "user": "pzuser"
+    },
+    "discordBot": {
+        "generalChannel": "general",
+        "serverLogsChannel": "server-logs",
+        "serverEventsChannel": "server-events",
+        "testChannel": "test",
+        "checkModsInterval": 600000,
+        "messages": {
+            "welcome": "Welcome to the server, {0}!",
+            "loggedIn": "Logged in as {0}!",
+            "loggedOut": "Logged out!",
+            "serverStarting": "Server starting...",
+            "serverStarted": "Server started!",
+            "serverStopping": "Server stopping...",
+            "serverStopped": "Server stopped!",
+            "serverRestarting": "Server restarting...",
+            "serverRestarted": "Server restarted!",
+            "serverShuttingDown": "Server shutting down...",
+            "serverShutdown": "Server shutdown!",
+            "serverOnline": "Server is online!",
+            "serverOffline": "Server is offline!",
+            "serverMods": "Server mods: {0}",
+            "serverModsUpdate": "Server mods are outdated, updating..."
+        }
+    }
+}
