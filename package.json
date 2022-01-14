@@ -2,7 +2,7 @@
     "name": "pzserver-tools",
     "version": "1.0.0",
     "description": "",
-    "main": "lib/test.js",
+    "main": "lib/start.js",
     "type": "module",
     "scripts": {
         "start": "node lib/start.js",
