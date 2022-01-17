@@ -1,4 +1,4 @@
 #!/bin/bash
-cd $1 && screen -dmS $2 ./start-server.sh
+cd $1 && tmux new -s $2 -d ./start-server.sh
 
 exit 0
